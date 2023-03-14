@@ -1,8 +1,10 @@
 # Welcome to My Tar
+*Development still in progress*
 ***
 
 ## Task
 Recreate the functionality of the Unix-like tar command. 
+
 
 ## Description
 my_tar is a command to manipulate tape archive. The first option to tar is a mode indicator from the following list:
